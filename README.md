@@ -2,8 +2,8 @@
 Program Praktikum Matakuliah Pengantar Pemrograman 
 
 # Praktikum Pengantar Pemrograman
-<h1> Nama : Muhammad Aqmal Nurfauzi <h1> 
-<h1> NIM : 231031052 </h1>
-<h1> Prodi : Sistem Informasi </h1>
+<div> Nama : Muhammad Aqmal Nurfauzi </div>  
+<div> NIM : 231031052 </div> 
+<div> Prodi : Sistem Informasi </div> 
 
 * Praktikum 1 : Pengenalan Variabel`praktikum_b10.py`
