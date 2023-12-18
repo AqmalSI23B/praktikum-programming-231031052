@@ -7,3 +7,4 @@ Program Praktikum Matakuliah Pengantar Pemrograman
 <div> Prodi : Sistem Informasi </div> 
 
 * Praktikum 1 : Pengenalan Variabel`praktikum_b10.py`
+* Prakrtikum 2: Operator `Praktikum-b2.py`
